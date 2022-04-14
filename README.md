@@ -9,3 +9,7 @@
 - The three dots is created using insertAdjacentHTML and dataset attribute so it programmatically create the same amount of dots coresponding to the number of slides available
 - Add 'active' class to current slide with a higher opacity using classList.remove and classList.add
 - Keyboard keydown for 'RightArrow' and 'LeftArrow' using 'keydown' event
+
+<p align='center'>
+  <img src="slide.gif">
+</p>
